@@ -1,4 +1,4 @@
-# SBSC-Bank-App
+# About SBSC Bank App Architectural Design
 
 The SBSC bank app as developed by me is an asp.net core 3.1 api project well documented using swagger and also secure using jwt this means most of the endpoints requires an authorization token in the header which is used to Identify who is accessing these endpoints 
 
