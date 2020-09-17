@@ -3,3 +3,12 @@
 ################################################################################
 
 /.vs/JOSEPH.SBSC/v16
+/JOSEPH.SBSC.API/bin/Debug/netcoreapp3.1
+/JOSEPH.SBSC.API/obj
+/JOSEPH.SBSC.ApplicationService/bin/Debug/netcoreapp3.1
+/JOSEPH.SBSC.ApplicationService/obj
+/JOSEPH.SBSC.Core/Migrations
+/JOSEPH.SBSC.Core/bin/Debug/netcoreapp3.1
+/JOSEPH.SBSC.Core/obj
+/JOSEPH.SBSC.Repository/bin/Debug/netcoreapp3.1
+/JOSEPH.SBSC.Repository/obj
